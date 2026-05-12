@@ -84,7 +84,7 @@ The project includes analysis on:
 
 ---
 
-# 📷 Project Screenshots
+# 📷 Project images
 
 ## 📌 Churn Distribution
 ![Churn Distribution](images/churn_distribution.png)
